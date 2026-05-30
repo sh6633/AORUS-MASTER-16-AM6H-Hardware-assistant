@@ -1,0 +1,208 @@
+AORUS MASTER 16 AM6H Hardware Assistant Benchmark (100 Questions)
+
+=== 規格查詢(1-20) ===
+Q1. 請告訴我這台的作業系統配置為何？
+Q2. 請告訴我這台的中央處理器配置為何？
+Q3. 請告訴我這台的顯示晶片配置為何？
+Q4. 請告訴我這台的顯示器配置為何？
+Q5. 請告訴我這台的記憶體配置為何？
+Q6. 請告訴我這台的儲存裝置配置為何？
+Q7. 請告訴我這台的鍵盤種類為何？
+Q8. 請告訴我這台的連接埠配置為何？
+Q9. 請告訴我這台的音效配置為何？
+Q10. 請告訴我這台的通訊功能配置為何？
+Q11. 請告訴我這台的視訊鏡頭配置為何？
+Q12. 請告訴我這台的安全裝置配置為何？
+Q13. 請告訴我這台的電池配置為何？
+Q14. 請告訴我這台的變壓器配置為何？
+Q15. 請告訴我這台的尺寸為何？
+Q16. 請告訴我這台的重量為何？
+Q17. 請告訴我這台的顏色為何？
+Q18. 請告訴我這台支援哪些顯示技術？
+Q19. 請告訴我這台有哪些 AI 相關功能？
+Q20. 請告訴我這台有哪些散熱技術？
+=== 存在/不存在/未知(21-50) ===
+Q21. 這台電腦有 OLED 螢幕嗎？
+Q22. 這台電腦有 NVIDIA G-SYNC 嗎？
+Q23. 這台電腦有 NVIDIA Advanced Optimus 嗎？
+Q24. 這台電腦有 Dolby Vision 嗎？
+Q25. 這台電腦有 Pantone Validated 認證嗎？
+Q26. 這台電腦有低藍光認證嗎？
+Q27. 這台電腦有 Wi‑Fi 7 嗎？
+Q28. 這台電腦有藍牙功能嗎？
+Q29. 這台電腦有 Windows Hello 嗎？
+Q30. 這台電腦有 RTX 5090 的版本嗎？
+Q31. 這台電腦有 Thunderbolt 5 嗎？
+Q32. 這台電腦有 5G SIM 卡槽嗎？
+Q33. 這台電腦有觸控螢幕嗎？
+Q34. 這台電腦有光碟機嗎？
+Q35. 這台電腦支援 ECC RAM 嗎？
+Q36. 這台電腦的 SSD 是 TLC 還是 QLC？
+Q37. 這台電腦使用液態金屬散熱嗎？
+Q38. 這台電腦支援 CUDA 13 嗎？
+Q39. 這台電腦有雙螢幕設計嗎？
+Q40. 這台電腦有可拆式鍵盤嗎？
+Q41. 這台電腦有 ARM 處理器版本嗎？
+Q42. 這台電腦有 RTX 5080 的版本嗎？
+Q43. 這台電腦有 RTX 5070 Ti 的版本嗎？
+Q44. 這台電腦有 TPM 安全晶片嗎？
+Q45. 這台電腦有 IR Webcam 嗎？
+Q46. 這台電腦有 RGB 鍵盤嗎？
+Q47. 這台電腦有 VESA DisplayHDR True Black 500 嗎？
+Q48. 這台電腦有 VESA ClearMR 10000 嗎？
+Q49. 這台電腦有 AI PC 功能嗎？
+Q50. 這台電腦有 GiMATE AI 助理嗎？
+=== 模糊問題(51-80) ===
+Q51. 請介紹一下這款電腦。
+Q52. 你推薦 BZH 還是 BYH？
+Q53. 這台適合打遊戲嗎？
+Q54. 這台適合 AI 開發嗎？
+Q55. 這台適合學生嗎？
+Q56. 這台適合影片剪輯嗎？
+Q57. 這台值得購買嗎？
+Q58. 如果預算有限，我該選哪個版本？
+Q59. 哪個版本的 CP 值比較高？
+Q60. 我應該買 RTX 5090 還是 RTX 5080 的版本？
+Q61. 這台適合跑大型語言模型嗎？
+Q62. 這台適合作為工作站嗎？
+Q63. 這台適合工程師嗎？
+Q64. 這台適合資料科學家嗎？
+Q65. 這台的優點有哪些？
+Q66. 這台的缺點有哪些？
+Q67. 如果我只玩 LOL 該選哪個版本？
+Q68. 如果我要玩 3A 遊戲該選哪個版本？
+Q69. 如果我要做 AI 訓練該選哪個版本？
+Q70. 如果我要攜帶外出該選哪個版本？
+Q71. 哪個 SKU 最適合內容創作？
+Q72. 哪個 SKU 最適合 AI 工作負載？
+Q73. 哪個 SKU 最適合電競玩家？
+Q74. 哪個版本最值得升級？
+Q75. 這系列和一般文書筆電有什麼差異？
+Q76. 這系列和電競桌機相比如何？
+Q77. 你會推薦購買哪個 SKU？
+Q78. 這台未來五年還夠用嗎？
+Q79. 這台適合作為主力開發機嗎？
+Q80. 這台適合研究生使用嗎？
+=== 無關問題(81-100) ===
+Q81. 今天台北的天氣如何？
+Q82. 世界上最高的山是哪一座？
+Q83. 如何煮一碗好吃的泡麵？
+Q84. 披薩上應不應該放鳳梨？
+Q85. 巴黎鐵塔有多高？
+Q86. 哪一種咖啡最好喝？
+Q87. 你最喜歡的電影是什麼？
+Q88. 貓和狗哪個比較聰明？
+Q89. 如何學好吉他？
+Q90. 台積電的股價是多少？
+Q91. 牛頓第二運動定律是什麼？
+Q92. 量子力學是什麼？
+Q93. 如何準備馬拉松？
+Q94. 如何學好英文？
+Q95. 世界人口有多少？
+Q96. Python 和 C++ 哪個比較好？
+Q97. 什麼是區塊鏈？
+Q98. 什麼是 ETF？
+Q99. 什麼是黑洞？
+Q100. 如何投資美股？
+
+=== English Version (Q101-Q200) ===
+Q101. Please tell me the operating system configuration of this laptop.
+Q102. Please tell me the CPU configuration of this laptop.
+Q103. Please tell me the GPU configuration of this laptop.
+Q104. Please tell me the display configuration of this laptop.
+Q105. Please tell me the memory configuration of this laptop.
+Q106: Please tell me the storage configuration of this laptop.
+Q107: Please tell me the keyboard type of this laptop.
+Q108: Please tell me the port configuration of this laptop.
+Q109: Please tell me the audio configuration of this laptop.
+Q110: Please tell me the communication and networking configuration of this laptop.
+Q111: Please tell me the webcam configuration of this laptop.
+Q112: Please tell me the security features of this laptop.
+Q113: Please tell me the battery configuration of this laptop.
+Q114: Please tell me the power adapter configuration of this laptop.
+Q115: Please tell me the dimensions of this laptop.
+Q116: Please tell me the weight of this laptop.
+Q117: Please tell me the color of this laptop.
+Q118: Please tell me which display technologies this laptop supports.
+Q119: Please tell me which AI-related features this laptop provides.
+Q120: Please tell me which cooling technologies this laptop uses.
+Q121: Does this laptop have an OLED display?
+Q122: Does this laptop support NVIDIA G-SYNC?
+Q123: Does this laptop support NVIDIA Advanced Optimus?
+Q124: Does this laptop support Dolby Vision?
+Q125: Does this laptop have Pantone Validated certification?
+Q126: Does this laptop have a low blue light certification?
+Q127: Does this laptop support Wi‑Fi 7?
+Q128: Does this laptop support Bluetooth?
+Q129: Does this laptop support Windows Hello?
+Q130: Is there an RTX 5090 version of this laptop?
+Q131: Does this laptop support Thunderbolt 5?
+Q132: Does this laptop have a 5G SIM card slot?
+Q133: Does this laptop have a touchscreen?
+Q134: Does this laptop have an optical drive?
+Q135: Does this laptop support ECC RAM?
+Q136: Is the SSD in this laptop TLC or QLC?
+Q137: Does this laptop use liquid metal cooling?
+Q138: Does this laptop support CUDA 13?
+Q139: Does this laptop have a dual-screen design?
+Q140: Does this laptop have a detachable keyboard?
+Q141: Is there an ARM processor version of this laptop?
+Q142: Is there an RTX 5080 version of this laptop?
+Q143: Is there an RTX 5070 Ti version of this laptop?
+Q144: Does this laptop have a TPM security chip?
+Q145: Does this laptop include an IR webcam?
+Q146: Does this laptop have an RGB keyboard?
+Q147: Does this laptop support VESA DisplayHDR True Black 500?
+Q148: Does this laptop support VESA ClearMR 10000?
+Q149: Does this laptop have AI PC capabilities?
+Q150: Does this laptop include the GiMATE AI assistant?
+Q151: Please introduce this laptop.
+Q152: Would you recommend BZH or BYH?
+Q153: Is this laptop suitable for gaming?
+Q154: Is this laptop suitable for AI development?
+Q155: Is this laptop suitable for students?
+Q156: Is this laptop suitable for video editing?
+Q157: Is this laptop worth buying?
+Q158: If I have a limited budget, which version should I choose?
+Q159: Which version offers better value for money?
+Q160: Should I buy the RTX 5090 version or the RTX 5080 version?
+Q161: Is this laptop suitable for running large language models?
+Q162: Is this laptop suitable as a workstation?
+Q163: Is this laptop suitable for engineers?
+Q164: Is this laptop suitable for data scientists?
+Q165: What are the advantages of this laptop?
+Q166: What are the disadvantages of this laptop?
+Q167: If I only play League of Legends, which version should I choose?
+Q168: If I want to play AAA games, which version should I choose?
+Q169: If I want to train AI models, which version should I choose?
+Q170: If I need portability, which version should I choose?
+Q171: Which SKU is best for content creation?
+Q172: Which SKU is best for AI workloads?
+Q173: Which SKU is best for gamers?
+Q174: Which version is the most worthwhile upgrade?
+Q175: How does this series differ from a typical office laptop?
+Q176: How does this series compare with a gaming desktop?
+Q177: Which SKU would you recommend purchasing?
+Q178: Will this laptop still be sufficient five years from now?
+Q179: Is this laptop suitable as a primary development machine?
+Q180: Is this laptop suitable for graduate students?
+Q181: What is the weather like in Taipei today?
+Q182: What is the tallest mountain in the world?
+Q183: How do you cook delicious instant noodles?
+Q184: Should pineapple belong on pizza?
+Q185: How tall is the Eiffel Tower?
+Q186: Which type of coffee tastes best?
+Q187: What is your favorite movie?
+Q188: Which is smarter, cats or dogs?
+Q189: How can I learn guitar effectively?
+Q190: What is TSMC's stock price?
+Q191: What is Newton's Second Law of Motion?
+Q192: What is quantum mechanics?
+Q193: How do I prepare for a marathon?
+Q194: How can I improve my English?
+Q195: What is the population of the world?
+Q196: Which is better, Python or C++?
+Q197: What is blockchain?
+Q198: What is an ETF?
+Q199: What is a black hole?
+Q200: How do I invest in U.S. stocks?

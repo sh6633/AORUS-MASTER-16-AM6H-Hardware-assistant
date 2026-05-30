@@ -1,0 +1,17 @@
+[project]
+name = "gigabyte-aorus-rag"
+version = "0.1.0"
+description = "Local RAG assistant for GIGABYTE AORUS MASTER 16 AM6H product specifications."
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "huggingface-hub>=1.16.4",
+    "llama-cpp-python>=0.3.23",
+    "lxml>=6.1.1",
+    "numpy>=2.4.6",
+    "requests>=2.34.2",
+]
+
+[tool.uv]
+package = false
