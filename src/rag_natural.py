@@ -66,9 +66,11 @@ class NaturalRAGPipeline:
             tf = term_counts[token]
             if tf == 0:
                 continue
-            df = self.doc_freq[token]
+            df = self.doc_freq.get(token, 0)
             idf = math.log(1 + (doc_count - df + 0.5) / (df + 0.5))
             denominator = tf + k1 * (1 - b + b * doc_len / (self.avg_doc_len or 1))
+            if denominator <= 0:
+                continue
             score += idf * (tf * (k1 + 1)) / denominator
 
         return score

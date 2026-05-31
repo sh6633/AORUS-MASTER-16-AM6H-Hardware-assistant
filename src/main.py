@@ -21,8 +21,9 @@ def main() -> None:
     llm = LocalLLM()
 
     print("哈囉，我是 AORUS MASTER 16 AM6H 的硬體小助手，你可以問我任何有關該設備問題喔 (｀・ω・´)b")
-    print("Using natural chunks: BM25 + similarity -> top 3 chunks -> llama.cpp streaming.")
-    print("Type a question, or type exit to quit.\n")
+    print("要離開記得輸入exit喔。提醒一下，產品規格以外的問題我都不會回答喔!!!\n")
+    #print("Using natural chunks: BM25 + similarity -> top 3 chunks -> llama.cpp streaming.")
+    #print("Type a question, or type exit to quit.\n")
 
     while True:
         question = input("Q: ").strip()

@@ -131,11 +131,13 @@ src/rag_natural.py
 
 本專案實作方式：
 
-1. **BM25 + embedding rerank**：先用 BM25 召回候選 chunks，再使用 `intfloat/multilingual-e5-small` 建立的 Vector Index 依 embedding similarity 重新排序。
+1. **BM25 + token-count cosine similarity 召回候選 chunks**：先針對每個 chunk 計算 BM25 分數與詞頻 cosine similarity，再用加權分數排序候選資料。
+2. **embedding rerank**：從候選 chunks 中取出前幾名，再使用 `intfloat/multilingual-e5-small` 建立的 Vector Index 依 embedding similarity 重新排序。
 
 檢索後會將選出的 chunks 組合進 prompt，再交給 `llama.cpp` 進行 Streaming 串流生成。
 
 - `BM25`：處理 RTX 5090、Thunderbolt 5、Wi-Fi 7 等精確關鍵詞。
+- `token-count cosine similarity`：將問題與 chunk 都轉成 token frequency，再計算兩者的 cosine similarity，作為 BM25 之外的補充分數。
 - `Vector Index / embedding rerank`：改善中英文與語意相近問題，例如「通訊功能」與 networking / connectivity。
 
 生成模型透過 `llama-cpp-python` 呼叫本地 GGUF 模型，並使用 Streaming 逐 token 輸出。
